@@ -1,0 +1,9 @@
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\bin\x86\Debug\NormalCaptcha.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\bin\x86\Debug\NormalCaptcha.pdb
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\bin\x86\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\bin\x86\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\obj\x86\Debug\NormalCaptcha.csprojAssemblyReference.cache
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\obj\x86\Debug\NormalCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\obj\x86\Debug\NormalCaptcha.csproj.CopyComplete
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\obj\x86\Debug\NormalCaptcha.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\NormalCaptcha\NormalCaptcha\obj\x86\Debug\NormalCaptcha.pdb
